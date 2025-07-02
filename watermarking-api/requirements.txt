@@ -1,0 +1,12 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+supabase==2.15.2
+pillow==11.2.1
+numpy==1.26.4
+PyWavelets==1.5.0
+reedsolo==2.1.1b1
+requests==2.32.3
+pydantic==2.5.0
+python-multipart==0.0.6
+imagehash==4.3.2
+python-dotenv==1.0.0

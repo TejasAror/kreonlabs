@@ -1,0 +1,8 @@
+requests>=2.28.0
+camoufox
+numpy
+PyWavelets
+Pillow
+reedsolo
+ImageHash
+playwright
